@@ -6,4 +6,5 @@ curl -O https://repo1.maven.org/maven2/org/sonarsource/scanner/cli/sonar-scanner
 unzip sonar-scanner-cli-3.2.0.1227-linux.zip
 ls
 cd sonar-scanner-3.2.0.1227-linux/bin
+ls
 sonar-scanner --help
