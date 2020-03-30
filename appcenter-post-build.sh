@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "POST BUILD"
+echo "Running Automation Test"
